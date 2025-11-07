@@ -1,1 +1,1 @@
-# Cobimos-
+Cobimos ULTRA Render-ready package. Deploy on Render, set STABILITY_API_KEY in environment variables, then deploy.
